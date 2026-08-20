@@ -151,16 +151,16 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![whois output](screenshot/<img width="1366" height="768" alt="1_whois" src="https://github.com/user-attachments/assets/57ee2e1f-9999-49f7-aae7-9ad40591f396" />)
 
-![whatweb output](<img width="1366" height="768" alt="2_whatweb" src="https://github.com/user-attachments/assets/65e4de98-01ec-4993-a269-5de7833d8f56" />)
+![whatweb output](screenshot/<img width="1366" height="768" alt="2_whatweb" src="https://github.com/user-attachments/assets/65e4de98-01ec-4993-a269-5de7833d8f56" />)
 
-![nslookup output](<img width="1366" height="768" alt="3_nslookup" src="https://github.com/user-attachments/assets/d47f7f68-6a95-4992-840e-f0f8e596bd70" />)
+![nslookup output](screenshot/<img width="1366" height="768" alt="3_nslookup" src="https://github.com/user-attachments/assets/d47f7f68-6a95-4992-840e-f0f8e596bd70" />)
 
-![curl output](<img width="1366" height="768" alt="4_curl -I" src="https://github.com/user-attachments/assets/38b7f331-53ce-4fc5-a43c-a23447dc18a3" />)
+![curl output](screenshot/<img width="1366" height="768" alt="4_curl -I" src="https://github.com/user-attachments/assets/38b7f331-53ce-4fc5-a43c-a23447dc18a3" />)
 
-![wafw00f output](<img width="1366" height="768" alt="5_wafw00f" src="https://github.com/user-attachments/assets/436d065d-6777-4e66-9010-7703813e36e6" />)
+![wafw00f output](screenshot/<img width="1366" height="768" alt="5_wafw00f" src="https://github.com/user-attachments/assets/436d065d-6777-4e66-9010-7703813e36e6" />)
 
-![dnsrecon output](<img width="1366" height="768" alt="7_zenmap" src="https://github.com/user-attachments/assets/451e180b-000d-4a92-8546-6915829fc77b" />)
+![dnsrecon output](screenshot/<img width="1366" height="768" alt="7_zenmap" src="https://github.com/user-attachments/assets/451e180b-000d-4a92-8546-6915829fc77b" />)
 
-![Zenmap scan and topology](<img width="1366" height="768" alt="8_zenmap" src="https://github.com/user-attachments/assets/78b5d543-2409-4fcf-af70-b5e5e37b485e" />)
+![Zenmap scan and topology](screenshot/<img width="1366" height="768" alt="8_zenmap" src="https://github.com/user-attachments/assets/78b5d543-2409-4fcf-af70-b5e5e37b485e" />)
 
 -End-
