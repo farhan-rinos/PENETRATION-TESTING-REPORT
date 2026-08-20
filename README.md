@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="1_whois" src="https://github.com/user-attachments/assets/d8f5ce68-bb09-4ef9-8baf-77744bd4a7d3" /># PENETRATION-TESTING-REPORT
+ PENETRATION-TESTING-REPORT
 ### Footprinting & Network Scanning Phases
 
 **W2-PM-FINAL  |  CYBERSECURITY  |  NETWORKWALKS**
