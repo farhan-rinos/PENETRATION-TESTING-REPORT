@@ -149,7 +149,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 *Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
 
-![whois output](<img width="1366" height="768" alt="1_whois" src="https://github.com/user-attachments/assets/57ee2e1f-9999-49f7-aae7-9ad40591f396" />)
+![whois output](screenshot/<img width="1366" height="768" alt="1_whois" src="https://github.com/user-attachments/assets/57ee2e1f-9999-49f7-aae7-9ad40591f396" />)
 
 ![whatweb output](<img width="1366" height="768" alt="2_whatweb" src="https://github.com/user-attachments/assets/65e4de98-01ec-4993-a269-5de7833d8f56" />)
 
